@@ -1,14 +1,15 @@
 # 🌐 Zion App Network — Interlinks
 
-**ai-audio-engine** — AI audio processing, synthesis and sound design. Part of the Zion Tech Group app network (630+ apps).
+**ai-audio-engine** is part of the Zion Tech Group app network (630+ apps).
 
 - 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 - 🗂️ Category: [Content & Marketing](https://github.com/Zion-support/zion-network/blob/main/network/content-marketing.md)
 
 ## Related apps
-- [ai-audio-transcriber](https://github.com/Zion-support/ai-audio-transcriber) — speech-to-text
-- [zion-ai-video-studio](https://github.com/Zion-support/zion-ai-video-studio) — AI video generation
-- [voice-agent-studio](https://github.com/Zion-support/voice-agent-studio) — voice agents for calls & IVR
+- [ai-advertising-optimizer](https://github.com/Zion-support/ai-advertising-optimizer) — AI Advertising Optimizer
+- [ai-audio-transcriber](https://github.com/Zion-support/ai-audio-transcriber) — Speech-to-text with diarization
+- [ai-avatar-generator](https://github.com/Zion-support/ai-avatar-generator) — 3D avatars and digital identities
+- [ai-caption-generator](https://github.com/Zion-support/ai-caption-generator) — Social media captions with AI
 - [zion-network](https://github.com/Zion-support/zion-network) — network hub
 
 ---
