@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Audio Engine
 
-**ai-audio-engine** is part of the Zion Tech Group app network (630+ apps).
+Professional audio processing, synthesis, and sound design platform.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Content & Marketing](https://github.com/Zion-support/zion-network/blob/main/network/content-marketing.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-audio-transcriber](https://github.com/Zion-support/ai-audio-transcriber) · [zion-ai-voice-assistant](https://github.com/Zion-support/zion-ai-voice-assistant) · [voice-agent-studio](https://github.com/Zion-support/voice-agent-studio) · [zion-ai-video-studio](https://github.com/Zion-support/zion-ai-video-studio)
 
-## Related apps
-- [ai-advertising-optimizer](https://github.com/Zion-support/ai-advertising-optimizer) — AI Advertising Optimizer
-- [ai-audio-transcriber](https://github.com/Zion-support/ai-audio-transcriber) — Speech-to-text with diarization
-- [ai-avatar-generator](https://github.com/Zion-support/ai-avatar-generator) — 3D avatars and digital identities
-- [ai-caption-generator](https://github.com/Zion-support/ai-caption-generator) — Social media captions with AI
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
